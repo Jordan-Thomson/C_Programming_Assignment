@@ -1,7 +1,7 @@
 /*
  * c programming assignment: c code to produce functionality
  * relating to nodes and sales structures
- * Author: Jordan Thomson <jordan.thomson.2019@uni.strath.ac.uk>
+ * Author: Jordan Thomson 
  * Last updated: 04/03/2021
  */
 
