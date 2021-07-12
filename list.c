@@ -1,7 +1,7 @@
 /*
  * c programming assignment: c code to implement functionality
  * of lists using nodes
- * Author: Jordan Thomson <jordan.thomson.2019@uni.strath.ac.uk>
+ * Author: Jordan Thomson
  * Last updated: 13/03/2021
  */
 
