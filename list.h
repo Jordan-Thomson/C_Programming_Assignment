@@ -2,7 +2,7 @@
  * c programming assignment: The provided list.h code from the
  * assignment. All original code still here, commented out pragma once
  *
- * Author: Jordan Thomson <jordan.thomson.2019@uni.strath.ac.uk>
+ * Author: Jordan Thomson 
  * Last updated: 12/03/2021
  */
  //#pragma once
