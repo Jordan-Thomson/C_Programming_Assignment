@@ -1,6 +1,6 @@
 /*
  * c programming assignment: header file for nodes
- * Author: Jordan Thomson <jordan.thomson.2019@uni.strath.ac.uk>
+ * Author: Jordan Thomson 
  * Last updated: 27/02/2021
  */
 #include <stdio.h>
