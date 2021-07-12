@@ -3,7 +3,7 @@
  * the user to interact with the system and provide functionalities
  * to work with a list of sale items.
  * Part 3 of the assignment
- * Author: Jordan Thomson <jordan.thomson.2019@uni.strath.ac.uk>
+ * Author: Jordan Thomson 
  * Last updated: 19/03/2021
  */
 
